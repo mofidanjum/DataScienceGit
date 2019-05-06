@@ -1,3 +1,3 @@
 import pandas as pd
 import numpy as np
-print("HEllo Git")
+print("Hello Capstone Project Course!")
